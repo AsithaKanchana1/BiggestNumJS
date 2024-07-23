@@ -12,7 +12,8 @@ Print `num2 is the largest` if `num2 > num3`
 Else print `num3`
 
 ## Download
-You can download the code from my GitHub repository.
+You can download the code from my GitHub repository: [GitHub Repository](https://github.com/AsithaKanchana1/BiggestNumJS/blob/main/Q3.html)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
